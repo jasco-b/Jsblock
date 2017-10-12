@@ -1,0 +1,24 @@
+{
+    "name": "jasurbek94/jsblock",
+
+    "description": "this is js wrapper in yii2 framework",
+
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jasurbek",
+            "email": "bjasurbek94@gmail.com"
+        }
+    ],
+	"version":"1.0.0",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jasurbek94\\jsblock\\": ""
+        }
+    }
+
+}
