@@ -1,6 +1,6 @@
 Jsblock
 =======
-JsBlock is helps with workin with js
+JsBlock is helps working with js. 
 
 Installation
 ------------
